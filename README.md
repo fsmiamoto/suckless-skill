@@ -1,6 +1,6 @@
 # suckless-skill
 
-A skill that reviews code using the [suckless](https://suckless.org/philosophy/) philosophy. 
+A skill that tries to apply the [suckless](https://suckless.org/philosophy/) philosophy to your agent code.
 
 Call out bloat, gratuitous abstractions, and speculative configurability.
 
