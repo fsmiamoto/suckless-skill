@@ -1,0 +1,9 @@
+{
+  "name": "suckless",
+  "description": "Critique code through a suckless lens — call out bloat, gratuitous abstractions, and speculative configurability, then propose deletions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Flavio Miyamoto"
+  },
+  "license": "MIT"
+}
