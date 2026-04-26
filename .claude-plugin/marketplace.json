@@ -1,0 +1,16 @@
+{
+  "name": "suckless-skill",
+  "owner": {
+    "name": "Flavio Miyamoto"
+  },
+  "metadata": {
+    "description": "A skill that reviews code through a suckless lens."
+  },
+  "plugins": [
+    {
+      "name": "suckless",
+      "source": "./",
+      "description": "Critique code through a suckless lens — call out bloat, gratuitous abstractions, and speculative configurability, then propose deletions."
+    }
+  ]
+}
